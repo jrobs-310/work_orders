@@ -1,15 +1,23 @@
 export const DATA = [
+    {"floor": 33, "room": 35, "year": "2020", "leaks": 0, "drywall": 0},
+    {"floor": 33, "room": 35, "year": "2021", "leaks": 0, "drywall": 0},
     {"floor": 33, "room": 35, "year": "2022", "leaks": 1, "drywall": 0},
     {"floor": 33, "room": 35, "year": "2023", "leaks": 1, "drywall": 1},
     {"floor": 33, "room": 35, "year": "2024", "leaks": 9, "drywall": 5},
+
+    {"floor": 33, "room": 36, "year": "2020", "leaks": 0, "drywall": 0},
     {"floor": 33, "room": 36, "year": "2021", "leaks": 2, "drywall": 4},
     {"floor": 33, "room": 36, "year": "2022", "leaks": 0, "drywall": 0},
     {"floor": 33, "room": 36, "year": "2023", "leaks": 1, "drywall": 1},
+    {"floor": 33, "room": 36, "year": "2024", "leaks": 0, "drywall": 0},
+
     {"floor": 33, "room": 37, "year": "2020", "leaks": 2, "drywall": 0},
     {"floor": 33, "room": 37, "year": "2021", "leaks": 0, "drywall": 0},
     {"floor": 33, "room": 37, "year": "2022", "leaks": 0, "drywall": 0},
     {"floor": 33, "room": 37, "year": "2023", "leaks": 1, "drywall": 0},
     {"floor": 33, "room": 37, "year": "2024", "leaks": 2, "drywall": 2},
+
+    {"floor": 33, "room": 38, "year": "2020", "leaks": 0, "drywall": 0},
     {"floor": 33, "room": 38, "year": "2021", "leaks": 2, "drywall": 0},
     {"floor": 33, "room": 38, "year": "2022", "leaks": 0, "drywall": 0},
     {"floor": 33, "room": 38, "year": "2023", "leaks": 4, "drywall": 1},
@@ -29,9 +37,9 @@ export const DATA = [
 
     {"floor": 33, "room": 42, "year": "2020", "leaks": 0, "drywall": 0},
     {"floor": 33, "room": 42, "year": "2021", "leaks": 0, "drywall": 0},
-    {"floor": 33, "room": 42, "year": "2022", "leaks": 0, "drywall": 0},
-    {"floor": 33, "room": 42, "year": "2023", "leaks": 0, "drywall": 0},
-    {"floor": 33, "room": 42, "year": "2024", "leaks": 0, "drywall": 0},
+    {"floor": 33, "room": 42, "year": "2022", "leaks": 1, "drywall": 0},
+    {"floor": 33, "room": 42, "year": "2023", "leaks": 0, "drywall": 1},
+    {"floor": 33, "room": 42, "year": "2024", "leaks": 4, "drywall": 2},
 
     {"floor": 32, "room": 35, "year": "2021", "leaks": 3, "drywall": 0},
     {"floor": 32, "room": 35, "year": "2022", "leaks": 0, "drywall": 0},
@@ -43,8 +51,6 @@ export const DATA = [
     {"floor": 32, "room": 37, "year": "2024", "leaks": 7, "drywall": 0},
     {"floor": 32, "room": 38, "year": "2022", "leaks": 1, "drywall": 0},
     {"floor": 32, "room": 38, "year": "2023", "leaks": 1, "drywall": 1},
-
-
     {"floor": 32, "room": 40, "year": "2023", "leaks": 1, "drywall": 1},
     {"floor": 32, "room": 40, "year": "2024", "leaks": 1, "drywall": 0},
     {"floor": 32, "room": 42, "year": "2023", "leaks": 1, "drywall": 1},
